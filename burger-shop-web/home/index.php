@@ -30,11 +30,13 @@
                        <img src="../images/background-bruger.png" alt="" class="img1-home-area1">
                     </div>
                 </div>
-                <div>
-                    <div class="container">
+                </div>
+            </div>
+            <div class="div-margin-area1">
+                <div class="container">
                         <div class="row">
                             <div class="col-sm-6 col-md-5 col-lg-6">
-                                <div>
+                                <div class="div-card1-area1 container">
                                     <h2>Bursting with flavour</h2>
                                     <p>The brainchild of Ikram Salam, MrBurger puts a delectable twist on the classic burger to bring you fusion appeal that will leave you hungry for more!
                                         <br>
@@ -44,16 +46,15 @@
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-5 offset-md-2 col-lg-6 offset-lg-0">
-                                <div>
-                                    <img src="../images/Snapinsta.app_331663968_723783919388684_6380229169994041891_n_1080-1024x853.jpg" alt="">
+                                <div class="div-card2-area1">
+                                    <img src="../images/Snapinsta.app_331663968_723783919388684_6380229169994041891_n_1080-1024x853.jpg" alt="" class="img2-area1">
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
+        </div>  
      </div>
+     
     <!-- Area 1 -->
     
 </body>
